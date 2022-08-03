@@ -1,0 +1,2 @@
+# Color-Segmentation-and-Bounding-Boxes
+The aim of the project was to build a classifier that detects a blue recycling bin in the image and determines the distance of the barrel from the camera. Implemented a learning technique to develop Simple Gaussian distributions for various colour classes in the image. Trained a Logistic Regression model to distinguish between the recycle bin blue and other colour classes.
